@@ -1,0 +1,23 @@
+body{
+    
+  font-family: "Winky Sans", sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color:#0dabb1 ;
+}
+.name{
+    color: #66cf10f1;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
